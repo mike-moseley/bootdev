@@ -15,6 +15,7 @@ Every repo below is also tagged with the [`boot-dev`](https://github.com/mike-mo
 | HTTP servers | HTTP server course work | [go-http](https://github.com/mike-moseley/go-http) |
 | Pub/Sub | RabbitMQ publish/subscribe game | [boot-pubsub](https://github.com/mike-moseley/boot-pubsub) |
 | Advanced Go | Advanced Go build project | [goAdvBuilder](https://github.com/mike-moseley/goAdvBuilder) *(private)* |
+| linko | Boot.dev observability & logging course | [linko](https://github.com/mike-moseley/linko) |
 
 ## Python
 
