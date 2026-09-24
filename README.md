@@ -14,7 +14,6 @@ Every repo below is also tagged with the [`boot-dev`](https://github.com/mike-mo
 | HTTP protocol | HTTP/1.1 parser and server built from raw TCP | [learn-http-protocol](https://github.com/mike-moseley/learn-http-protocol) |
 | HTTP servers | HTTP server course work | [go-http](https://github.com/mike-moseley/go-http) |
 | Pub/Sub | RabbitMQ publish/subscribe game | [boot-pubsub](https://github.com/mike-moseley/boot-pubsub) |
-| Redoubt | Advanced Go build project, formerly goAdvBuilder. Multiplayer terminal game: Go server, TCP clients, PostgreSQL accounts service | [Redoubt](https://github.com/mike-moseley/Redoubt) |
 | Linko | Toy URL shortener — practice adding logs, metrics & traces | [linko](https://github.com/mike-moseley/linko) |
 
 ## Python
