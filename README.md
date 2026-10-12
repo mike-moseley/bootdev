@@ -25,6 +25,7 @@ Every repo below is also tagged with the [`boot-dev`](https://github.com/mike-mo
 | Webflyx | Object-oriented programming practice project | [webflyx](https://github.com/mike-moseley/webflyx) |
 | AI agent | Function-calling AI coding agent | [ai-agent](https://github.com/mike-moseley/ai-agent) |
 | RAG search engine | Retrieval-augmented generation search engine | [rag-search-engine](https://github.com/mike-moseley/rag-search-engine) |
+| bookbot | Word and character counter for Project Gutenberg books | [bookbot](https://github.com/mike-moseley/bookbot) |
 
 ## C
 
