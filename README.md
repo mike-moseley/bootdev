@@ -41,3 +41,9 @@ Every repo below is also tagged with the [`boot-dev`](https://github.com/mike-mo
 | --- | --- | --- |
 | Docker project | Boot.dev Docker course project | [boot-docker](https://github.com/mike-moseley/boot-docker) |
 | Docker server | Server used in the Docker course | [boot-docker-server](https://github.com/mike-moseley/boot-docker-server) |
+
+## Shell
+
+| Project | What it is | Repo |
+| --- | --- | --- |
+| worldbanc | Filesystem practice for the Learn Terminals and Shells course | [worldbanc](https://github.com/mike-moseley/worldbanc) |
